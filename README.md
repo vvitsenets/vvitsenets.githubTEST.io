@@ -1,2 +1,2 @@
-# vvitsenets.github.io
+# Disabled
 Face Recognition JS
